@@ -1,5 +1,5 @@
-Lovre ima 1 pobjeda i y poraza!
-David ima z pobjeda i 1 poraza!
+Lovre ima 1 pobjeda i 2 poraza!
+David ima 2 pobjeda i 1 poraza!
 
 x x x
 . . .
